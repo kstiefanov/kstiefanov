@@ -1,3 +1,1 @@
 - 👋 Hi, I’m @kstiefanov!
-- 👀 I’m interested in making A.I projects!
-- 🌱 I’m currently learning Python as my first programming language!
